@@ -1,4 +1,4 @@
-# 🥩 ProjetDevWeb — Site e-commerce immersif
+#  ProjetDevWeb — Site e-commerce immersif
 
 Projet réalisé dans le cadre du BUT Informatique (K1).
 Développement d’un site web de vente avec une expérience immersive (bruitages, navigation dynamique et interface responsive).
@@ -8,7 +8,7 @@ Développement d’un site web de vente avec une expérience immersive (bruitage
 
 ---
 
-## 👩‍💻 Ma contribution
+##  Ma contribution
 
 * Développement complet de la **page d’accueil**
 * Réalisation du **footer**
@@ -18,7 +18,7 @@ Développement d’un site web de vente avec une expérience immersive (bruitage
 
 ---
 
-## 👥 Travail en équipe
+##  Travail en équipe
 
 Projet réalisé en groupe :
 
@@ -31,7 +31,7 @@ Projet réalisé en groupe :
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 * HTML5
 * CSS3
@@ -41,7 +41,7 @@ Projet réalisé en groupe :
 
 ---
 
-## 🎯 Compétences développées
+##  Compétences développées
 
 * Intégration web responsive
 * Organisation d’un projet en équipe
@@ -51,7 +51,7 @@ Projet réalisé en groupe :
 
 ---
 
-## 🚀 Objectif académique
+##  Objectif académique
 
 Actuellement étudiante en BUT Informatique,
 Ce projet illustre mes premières compétences en développement informatique et mon évolution vers des projets plus avancés en programmation, data et IA.
