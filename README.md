@@ -1,15 +1,60 @@
-# ProjetDevWeb
+# 🥩 ProjetDevWeb — Site e-commerce immersif
 
-Site de vente de viande avec bruitage pour une experience immersive
+Projet réalisé dans le cadre du BUT Informatique (K1).
+Développement d’un site web de vente avec une expérience immersive (bruitages, navigation dynamique et interface responsive).
 
--La page d'accueil a été réalisée par Tié Rachida Hébié
+🔗 **Accéder au site :**
+[https://lilicolombain.github.io/Boutique/](https://lilicolombain.github.io/Boutique/)
 
--La page de boutique a été réalisée par Emile Cap
+---
 
- -Le panier a été réalisé par Leo Bouchard 
+## 👩‍💻 Ma contribution
 
--La page à propos a été réalisée par Lili Colombain
+* Développement complet de la **page d’accueil**
+* Réalisation du **footer**
+* Intégration HTML/CSS
+* Conception de l’interface utilisateur
+* Travail collaboratif via Git/GitHub
 
-Leo Bouchard a réalisé le header et Tié Rachida Hébié a réalié le footer 
+---
 
-Lien du site : [Boutique de nourriture](https://lilicolombain.github.io/Boutique/)
+## 👥 Travail en équipe
+
+Projet réalisé en groupe :
+
+* Page d’accueil : **Rachida Hébié**
+* Boutique : Emile Cap
+* Panier : Leo Bouchard
+* Header : Leo Bouchard
+* Page À propos : Lili Colombain
+* Footer : **Rachida Hébié**
+
+---
+
+## 🛠️ Technologies
+
+* HTML5
+* CSS3
+* JavaScript
+* Git / GitHub
+* Méthode de projet en équipe
+
+---
+
+## 🎯 Compétences développées
+
+* Intégration web responsive
+* Organisation d’un projet en équipe
+* Gestion de version avec Git
+* Structuration d’une interface utilisateur
+* Communication technique
+
+---
+
+## 🚀 Objectif académique
+
+Actuellement étudiante en BUT Informatique,
+Ce projet illustre mes premières compétences en développement informatique et mon évolution vers des projets plus avancés en programmation, data et IA.
+
+---
+
